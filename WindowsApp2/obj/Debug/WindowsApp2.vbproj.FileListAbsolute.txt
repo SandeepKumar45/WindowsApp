@@ -1,0 +1,17 @@
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.FormCreateSubmission.resources
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.FormViewSubmissions.resources
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\obj\Debug\WindowsA.77BC09DE.Up2Date
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\SANDEEP\Web_Dev\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
